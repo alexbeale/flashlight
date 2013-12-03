@@ -4,5 +4,5 @@
         versionCode="1">
       <name>Flashlight</name>
       <description>A flashlight app for smartphones</description>
-      <gap:plugin name="nl.x-services.plugins.flashlight" />
+      <gap:plugin name="nl.x-services.plugins.flashlight" version="1.0" />
 </widget>
