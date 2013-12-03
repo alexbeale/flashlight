@@ -6,5 +6,5 @@
       <name>Flashlight</name>
       <description>A flashlight app for smartphones</description>
       <gap:plugin name="nl.x-services.plugins.flashlight" />
-      <preference name="phonegap-version" value="3.0" />
+      <preference name="phonegap-version" value="3.1.0" />
 </widget>
